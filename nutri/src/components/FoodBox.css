@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+}
+
+.main img{
+    height: 100px;
+    width: 100px;
+}
+
+.reset{
+    display: flex;
+    height: 20px;
+    margin-top: 20px;
+    align-items: center;
+}
